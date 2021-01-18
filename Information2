@@ -1,0 +1,28 @@
+package shm;
+
+import java.util.Random;
+
+public class Information2 {
+
+// 각 식품의 영양소 (카테고리)별로 g수나 칼로리 정보 입력하고 배열
+// 음식 칼로리 표 주소 http://blog.daum.net/mansduft/7655012
+
+String [0] = 김밥 ;
+String [1] =김치볶음밥;
+String [2] =보리밥;
+String [3] =볶음밥;
+String [4] =비빔밥;
+String [5] =삼각김밥;
+String [6] =새우볶음밥;
+
+
+public  static void main () {
+	
+
+	String [] food = new String [] {"김밥","볶음밥","김치볶음밥","보리밥","비빔밥","삼각김밥"," 새우볶음밥"};
+	
+	     
+//??	food {math.random():}*3 
+	
+}
+}
